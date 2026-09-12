@@ -1,7 +1,5 @@
 
-Here is the complete content of the **`README.md`** file created for your repository:
 
-```markdown
 # Data Analysis and Visualization with Google AI Studio
 
 **Repository:** `alsoub-labs/Data_Analysis_And_Visualization_with_Google_Ai_Studio`  
@@ -34,7 +32,6 @@ Access the Google AI Studio project dashboard here:
 
 ## 📁 Repository Structure
 
-```
 ├── src/            # Application source code (Produce & Trade Analytics dashboard)   
 ├── .env.example    # Example environment variables setup   
 ├── .gitignore      # Git ignore specifications   
@@ -43,7 +40,6 @@ Access the Google AI Studio project dashboard here:
 ├── package.json    # Project metadata and dependencies   
 ├── tsconfig.json   # TypeScript compilation configuration   
 └── vite.config.ts  # Vite configuration file   
-```
 
 ---
 
