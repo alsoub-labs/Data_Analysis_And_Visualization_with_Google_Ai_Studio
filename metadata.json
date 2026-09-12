@@ -1,0 +1,6 @@
+{
+  "name": "Produce & Trade Analytics Dashboard",
+  "description": "Interactive multi-dimensional analytics dashboard visualizing commodity prices, country volume shares, product varieties, demand-supply balance, and seasonal corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
