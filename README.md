@@ -35,14 +35,14 @@ Access the Google AI Studio project dashboard here:
 ## 📁 Repository Structure
 
 ```
-├── src/            # Application source code (Produce & Trade Analytics dashboard)
-├── .env.example    # Example environment variables setup
-├── .gitignore      # Git ignore specifications
-├── index.html      # Application HTML entry point
-├── metadata.json   # Google AI Studio application metadata
-├── package.json    # Project metadata and dependencies
-├── tsconfig.json   # TypeScript compilation configuration
-└── vite.config.ts  # Vite configuration file
+├── src/            # Application source code (Produce & Trade Analytics dashboard)   
+├── .env.example    # Example environment variables setup   
+├── .gitignore      # Git ignore specifications   
+├── index.html      # Application HTML entry point   
+├── metadata.json   # Google AI Studio application metadata   
+├── package.json    # Project metadata and dependencies   
+├── tsconfig.json   # TypeScript compilation configuration   
+└── vite.config.ts  # Vite configuration file   
 ```
 
 ---
